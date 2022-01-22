@@ -20,8 +20,10 @@
 
 ## 📊 GitHub Profile Stats
 
+<p align="center">
 <a href="#"><img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=moghaddam24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF" height="160px" /></a>
 <a href="#"><img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moghaddam24&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF" height="160px" /></a>
+</p>
 <br />
 
 ## 📊 Recent GitHub Activity
